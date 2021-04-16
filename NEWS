@@ -1,3 +1,7 @@
+4.3.8 (4/16/2021):
+
+* Allow mimemagic dependency to use 0.3.x version to resolve mimemagic licensing issue
+
 4.3.7 (7/1/2016):
 
 * Add deprecation warnings
